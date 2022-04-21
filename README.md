@@ -1,5 +1,5 @@
 # Model
-The codes are designed for the model LW-GNN_{GCN}, which is the variant of LW-GNN. It replace the GCNII with general GNN for homophilic graphs.
+The codes are designed for the model LW-GNN<sub>GCN</sub>, which is the variant of LW-GNN. It replace the GCNII with general GNN for homophilic graphs.
 
 # Dataset
 The folder "data" contains the homophilic dataset Cora. For this dataset, there are two files named "data.cites" and "graph.content".
