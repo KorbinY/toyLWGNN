@@ -10,6 +10,7 @@ The folder "data" contains the homophilic dataset Cora. For this dataset, there 
 
 ## Run
 Run the following command for training CANE:
+
     python3 run.py  -- batch_size 8 --lr 0.001 --epochs_p 50 --epochs 100# toyLWGNN
 
 ## Resource
